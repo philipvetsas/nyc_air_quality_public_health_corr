@@ -18,7 +18,7 @@ This file should be named `Air_Quality_20251201.csv` and be placed in the `resou
 
 This file should be named `Hospital_Inpatient_Discharges_2016.csv` and be placed in the `resources` folder.
 
-There are a few other files in the `resources` folder; some python pickles used for testing and development, and GeoJSONs. The GeoJSONs are necessary to run the geospatial visualizations, and should be downloaded as well for all the code to work.
+There are a few other files in the `resources` folder: some GeoJSONs. The GeoJSONs are necessary to run the geospatial visualizations, and must be included as well for all the code to work.
 
 ## Requirements
 

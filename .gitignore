@@ -1,3 +1,4 @@
 resources/Hospital_Inpatient_Discharges_2016.csv
 disp_borough_map.py
 disp_zip3_map.py
+resources/*.pkl
