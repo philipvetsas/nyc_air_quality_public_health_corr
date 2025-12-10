@@ -37,4 +37,4 @@ Dependencies of note include:
 
 ## Running the code
 
-To run the code, open the `BigdataProject.ipynb` file in in a Jupyter Notebook editor, like VS Code, or add the project files to Google Drive and run with Colab.
+To run the code, open the `BigdataProject.ipynb` file in in a Jupyter Notebook editor, like VS Code, run `jupyter notebook BigDataProject.ipynb` and view in your web browser, or add the project files to Google Drive and run with Colab.
